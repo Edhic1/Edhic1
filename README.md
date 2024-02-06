@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science & Network Security
 ----------------------------------- 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=edhic1&color=blue&abbreviated=true&base=26000" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=edhic1&color=blue&abbreviated=true" /></p>
 
 Skilled Computer Science & Network Security specialist with expertise in protecting digital systems. Analytical problem-solver adept at implementing effective solutions. Continuously adapting to emerging threats, I mitigate risks and ensure network security.
 
