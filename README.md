@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hicham Bchina
 
-![](https://komarev.com/ghpvc/?username=edhic1&color=blue&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=edhic1&color=blue&abbreviated=true&base=26000)
 =====================================================================================================================================
 
 Computer Science & Network Security
