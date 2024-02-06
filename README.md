@@ -9,7 +9,7 @@ Computer Science & Network Security
 Skilled Computer Science & Network Security specialist with expertise in protecting digital systems. Analytical problem-solver adept at implementing effective solutions. Continuously adapting to emerging threats, I mitigate risks and ensure network security.
 
 * 🌍  I'm based in Morocco, Essaouira
-* 🖥️  See my portfolio at [edhic1](http://test.com)
+* 🖥️  See my portfolio at [edhic1](https://edhic1.github.io)
 * ✉️  You can contact me at [edhicham1@gmail.com](mailto:edhicham1@gmail.com)
 * 🧠  I'm learning Software Development and Application Analysis
 * ⚡  I'm also secretly learning about CEH
